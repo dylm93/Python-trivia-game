@@ -149,8 +149,10 @@ def game_end():
             print("\nEnjoy :)\n")
             game_control()
         elif no.count(again) == True:
-            print("For fresh ideas, new feautures, new questions with answers, graphics and and and please post or edit on yourself at")
+            print("For fresh ideas, new feautures, new questions/answers, graphics, please post or edit yourself at")
+            print("  https://github.com/eliosfederico/Python-trivia-game")
             print("  https://class.coursera.org/programming1-2012-001/forum/thread?thread_id=1969")
+            print("                                                                              ")
             print("                             Thanks for playing!")
             print("                           ------ !! bye !! ------")
         else:
